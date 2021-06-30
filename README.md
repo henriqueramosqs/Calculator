@@ -14,3 +14,7 @@
 ## Link para o projeto
   
   https://henriqueramosqs.github.io/calculadora/estrutura.html
+  <br>
+  
+  <br>
+  ps: não se esqueça de "ligar" a calculadora para começar a usar :stuck_out_tongue_winking_eye:
