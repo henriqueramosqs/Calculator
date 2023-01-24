@@ -1,8 +1,8 @@
-# Calculadora
+# Calculator
  
- Este projeto tem como objetivo emular todas as funcionalidades de uma calculadora simples. Durante sua construção, pude exercer as funcionalidades do Document Object Model (DOM), criar funções de responsidades a eventos e definir regras para o tratamento de exceções.
-## Tecnologias utilizadas
-
+ This application aims to emulate the functionalities of a simple calculator, featuring Document Object Model(DOM) interface , events response and exceptions handling.
+ 
+## Technologies Used
 <img align='left' alt='javascript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
 
 <img align='left' alt='HTML' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -11,10 +11,10 @@
 
 <br>
 
-## Link para o projeto
+## Project link
   
   https://henriqueramosqs.github.io/calculadora/estrutura.html
   <br>
   
   <br>
-  ps: não se esqueça de "ligar" a calculadora para começar a usar :stuck_out_tongue_winking_eye:
+  Ps:: don`t forget to "turn in on" before using it :stuck_out_tongue_winking_eye:
